@@ -1,3 +1,3 @@
 from os import system
 
-system("")
+system("pip install pywebcopy")
